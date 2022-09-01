@@ -1,12 +1,11 @@
 {
   "vendor": "vtex",
-  "name": "countdown-andreea",
-  "version": "0.0.1",
-  "title": "Countdown",
-  "description": "Countdown component",
+  "name": "brand-logo",
+  "version": "0.0.0",
+  "title": "Brand Logo",
+  "description": "Brand Logo",
   "defaultLocale": "pt-BR",
   "builders": {
-    "admin": "0.x",
     "messages": "1.x",
     "store": "0.x",
     "react": "3.x"
