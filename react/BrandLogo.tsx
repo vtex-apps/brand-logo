@@ -29,7 +29,10 @@ const BrandLogo = () => {
         return "https://ebricoshopeu.vtexassets.com/assets/vtex.file-manager-graphql/images/0dcf3a57-b018-4408-bd16-32b7d15b2c76___c133db3422ff7a5cafb8409ec3bcb400.png"    
     } else if(brandPath.includes("dewalt")){
         return 
-    } else{
+    } else if(brandPath.includes("knipex")){
+        return "https://ebricoshopeu.vtexassets.com/assets/vtex.file-manager-graphql/images/d4390525-8fd5-45ce-a3cc-5985ad565e39___daae3d685419d74b71e68c7d86b900c7.png"
+    }
+    else{
         return '' 
     }
   }
